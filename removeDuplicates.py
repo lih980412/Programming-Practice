@@ -12,4 +12,3 @@ str = "112"
 str.find("2")
 
 print(11)
-
