@@ -24,3 +24,5 @@ needle = "ll"
 #     }
 #     return -1;
 # }
+
+# fsdet/utils/events.y  put_image
